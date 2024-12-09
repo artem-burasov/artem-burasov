@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Artyom!
+# 👋 Hey there, I'm Artem!
 
 # 💫 About Me:
 🔭 I’m currently working on development of the Ultron blockchain frontend infrastructure, Rainlang projects, and various Web3 projects<br>
