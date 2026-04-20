@@ -21,8 +21,8 @@
 
 ## 🏆 Key Achievements
 
-- 🦄 Built **Ultron DeFi ecosystem** frontend from scratch — peak TVL **$500M+**, 100k+ unique users
-- ⛓️ Developed **ULXScan** blockchain explorer — **50M+ transactions**, real-time GraphQL indexing
+- 🦄 Built **DeFi ecosystem** frontend from scratch — peak TVL **$500M+**, 100k+ unique users
+- ⛓️ Developed **blockchain explorer** — **50M+ transactions**, real-time GraphQL indexing
 - 👥 Led frontend team of **3–4 developers** — task decomposition, code review, mentoring
 - 🌐 Integrated **5+ EVM networks** in a single product — Viem, Wagmi v2, RainbowKit, Alchemy
 - 🥇 **1st place** — Makerthon / Makercase engineering marathons · **15+ hackathons**
