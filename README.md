@@ -1,10 +1,8 @@
 # 👋 Hey, I'm Artem Burasov
 
-**Middle/Senior Frontend Developer** · Web3 / DeFi · React & Next.js · TypeScript
+**Senior Frontend Developer** · DeFi / FinTech / PropTech · React & Next.js · TypeScript
 
-6+ years of commercial experience across Web3, DeFi, corporate portals, ERP systems, and e-commerce. Designed frontend architecture from scratch, led teams of 3–4 developers. Built products with **$500M+ peak TVL** and a blockchain with **50M+ transactions**.
-
-> Product-minded developer. High autonomy. Active use of AI tooling to multiply output.
+5+ years of commercial experience building B2B and B2C products across DeFi, FinTech, HealthTech, and corporate ERP systems. Specialized in complex fintech interfaces, large-scale analytics dashboards, and real-time monitoring systems. Led a team of 4 frontend engineers. Deep focus on performance, architecture (FSD), and predictable delivery.
 
 ---
 
@@ -13,9 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:morti.show@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-burasov)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/268318038036709376)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@artem_burasov)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12777702/artem-burasov)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?&logo=codepen&logoColor=white)](https://codepen.io/burasovartem)
+
 
 ---
 
@@ -23,10 +19,12 @@
 
 - 🦄 Built **DeFi ecosystem** frontend from scratch — peak TVL **$500M+**, 100k+ unique users
 - ⛓️ Developed **blockchain explorer** — **50M+ transactions**, real-time GraphQL indexing
-- 👥 Led frontend team of **3–4 developers** — task decomposition, code review, mentoring
-- 🌐 Integrated **5+ EVM networks** in a single product — Viem, Wagmi v2, RainbowKit, Alchemy
-- 🥇 **1st place** — Makerthon / Makercase engineering marathons · **15+ hackathons**
-- 🏅 **Finalist** — «Цифровой прорыв 2023» (flagship track) · Expert WorldSkills Russia (Web Technologies)
+- 👥 Led frontend team of **4 developers** — onboarding, task decomposition, code review
+- 🏗️ Migrated large-scale product to **FSD architecture** + RTK Query — **35% faster** feature delivery
+- ⚡ Optimized analytics table rendering (**5000+ rows** via TanStack Table) — load time **6s → 1s**
+- 🧪 Introduced **E2E testing** with Cypress on critical business flows — **60% fewer** regression defects
+- 💳 Integrated **Stripe** payments & **Sumsub** KYC for European market compliance
+- 📊 Designed **real-time transaction monitoring** system — 100k+ users, 50M+ records
 
 ---
 
@@ -64,14 +62,18 @@
 
 **Tooling & Testing**<br/>
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 **Backend / Deploy**<br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -82,8 +84,4 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=artem-burasov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=artem-burasov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=artem-burasov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Languages & Activity
-![](https://github-readme-activity-graph.vercel.app/graph?username=artem-burasov&theme=react-dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=artem-burasov&theme=dark&hide_border=false)
