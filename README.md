@@ -18,7 +18,6 @@
 ## 🏆 Key Achievements
 
 - 🦄 Built **DeFi ecosystem** frontend from scratch — peak TVL **$500M+**, 100k+ unique users
-- ⛓️ Developed **blockchain explorer** — **50M+ transactions**, real-time GraphQL indexing
 - 👥 Led frontend team of **4 developers** — onboarding, task decomposition, code review
 - 🏗️ Migrated large-scale product to **FSD architecture** + RTK Query — **35% faster** feature delivery
 - ⚡ Optimized analytics table rendering (**5000+ rows** via TanStack Table) — load time **6s → 1s**
